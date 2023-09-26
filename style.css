@@ -1,0 +1,45 @@
+body {
+  background-image: url('https://www.to-hawaii.com/images/surfing/big_wave_is_approaching.jpg');
+  background-size: cover;
+  color: lawngreen;
+  font-family: 'Font1', "Lob";
+}
+
+.header {
+  text-align: center;
+  padding: 65px;
+}
+
+.header h1 {
+  font-family: 'Font2', sans-serif;
+  font-size: 36px;
+}
+
+.intro {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center; /* Center the text within the introduction section */
+}
+
+.profiles {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.surfer {
+  display: inline-block;
+  margin: 20px;
+}
+
+.surfer img {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.surfer p {
+  font-weight: bold;
+  margin-top: 10px;
+}
